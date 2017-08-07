@@ -20,3 +20,6 @@ http://archive.ics.uci.edu/ml/datasets/arrhythmia
 # Relevent Pappers
 http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4488483
 http://cs229.stanford.edu/proj2014/Vasu%20Gupta,%20Sharan%20Srinivasan,%20Sneha%20Kudli,%20Prediction%20and%20Classification%20of%20Cardiac%20Arrhythmia.pdf
+
+# Authors
+<a href="https://github.com/Chahes" target='_blank'>Chahes Chopra</a>, <a href="https://github.com/19shubham" target='_blank'>Shubham Jaroli</a>, <a href="https://github.com/shivam04" target='_blank'>Shubham Jaroli</a>
